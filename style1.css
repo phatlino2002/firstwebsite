@@ -1,0 +1,42 @@
+h1{
+  color:red;
+  font-size:100px;
+  text-align: center;
+}
+body{
+  background-color:black
+}
+
+#title1 h1:hover{
+  content="";
+  color:deeppink;
+}
+#href1:hover{
+  content: "";
+  color:red;
+}
+#href2:hover{
+  content: "";
+  color:yellow;
+}
+#href3:hover{
+  content: "";
+  color:coral;
+}
+#href4:hover{
+  content: "";
+  color:mediumvioletred;
+}
+
+#href1 a{
+  color:white;
+}
+.content1{
+  color:antiquewhite;
+  font-size: 30px;
+  font-style: oblique;
+}
+.Endpage:hover{
+  text-align: center;
+  color:chartreuse;
+}
